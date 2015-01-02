@@ -6,4 +6,3 @@ Other tech work I have done for people and organizations (often for free). The e
 Some examples are:
   * RFS Dream Team website
   * Class of '19 blog
-  * Online learning platforms (Udacity, Codeacademy, etc.)
