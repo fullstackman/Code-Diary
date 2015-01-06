@@ -10,4 +10,5 @@ Finished the main course content by watching another set of excellent videos. Le
 #### January 04, 2015
 Playing around with the sample project of building a portfolio. Achieved the targeted layout and filled the space with dummy text and images.
 
-## To be continued. . .
+#### January 05, 2015
+I got the hang of HTML and CSS to make a few silly pages. Looked up documentation on different tags and style properties. Moving on to the W3School website to learn about JavaScript.
