@@ -12,4 +12,4 @@ We are going to have a photoshoot this weekend, so I had to set up each executiv
 I also sprinkled in some metadata about the site (title, favicon, etc).
 
 #### January 24, 2015
-Working with the VP of Marketing to decide on which pictures from our photoshoot to use...
+We have a good idea of what photos to use and where. They look amazing. I added them to every person's profile page and created a slider on the homepage.
