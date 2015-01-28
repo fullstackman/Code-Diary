@@ -15,4 +15,4 @@ I also sprinkled in some metadata about the site (title, favicon, etc).
 We have a good idea of what photos to use and where. They look amazing. I added them to every person's profile page and created a slider on the homepage.
 
 #### January 27, 2015
-The slider plugin settings failed to do anything useful. Going in on the custom CSS...
+Fixed up the homepage slider to look pretty decent! Pagination is unobtrusive, navigation arrows are sleek and functional. If only the images would stop resizing the container!
