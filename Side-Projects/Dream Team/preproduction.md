@@ -11,5 +11,8 @@ The next big things we needed were an "About" page and "Contact Us" page. Those 
 We are going to have a photoshoot this weekend, so I had to set up each executive team member's profile page. Everybody was more concerned with how their picture will look, than with how the page is laid out, so the basic Wordpress styling was enough for this page.
 I also sprinkled in some metadata about the site (title, favicon, etc).
 
-#### January 24, 2015
+#### January 25, 2015
 We have a good idea of what photos to use and where. They look amazing. I added them to every person's profile page and created a slider on the homepage.
+
+#### January 27, 2015
+That slider needs help. Trying to alter the slider plugin settings to get just the right look...
