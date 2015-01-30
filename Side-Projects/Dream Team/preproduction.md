@@ -16,3 +16,6 @@ We have a good idea of what photos to use and where. They look amazing. I added 
 
 #### January 27, 2015
 Fixed up the homepage slider to look pretty decent! Pagination is unobtrusive, navigation arrows are sleek and functional. If only the images would stop resizing the container!
+
+#### January 30, 2015
+All team members have a photo and profile link on the homepage team list. Now I have to wait for some body copy for our events list and links to our social media pages.
