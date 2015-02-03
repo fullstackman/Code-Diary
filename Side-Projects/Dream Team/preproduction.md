@@ -19,3 +19,6 @@ Fixed up the homepage slider to look pretty decent! Pagination is unobtrusive, n
 
 #### January 30, 2015
 All team members have a photo and profile link on the homepage team list. Now I have to wait for some body copy for our events list and links to our social media pages.
+
+#### February 2, 2015
+So apparently we need a sponspors page. Setting up what that will look like and writing the flavor text myself...
