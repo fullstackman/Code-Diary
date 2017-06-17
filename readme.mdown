@@ -1,0 +1,4 @@
+Code Diary
+==========
+
+A log of all my time spent coding. Organized by type of work.
