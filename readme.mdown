@@ -2,3 +2,5 @@ Code Diary
 ==========
 
 A log of all my time spent coding. Organized by type of work.
+
+This answer on [StackOverFlow](https://stackoverflow.com/a/3898842) was super helpful!
