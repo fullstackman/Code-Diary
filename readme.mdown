@@ -11,4 +11,4 @@ Putting in 10,000 hours of practice into a skill is often a sign of true mastery
 
 This answer on [StackOverFlow](https://stackoverflow.com/a/3898842) was super helpful!
 
-Talk about [this design](http://markconference.rutgers.edu/).
+Talk about [this design](http://markconference.rutgers.edu/). Use [this tool](https://tools.pingdom.com/) to highlight performance changes for the dining redesign.
