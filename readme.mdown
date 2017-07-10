@@ -3,11 +3,11 @@ Code Diary
 
 A log of all my time spent coding. Organized by type of work.
 
-#Purpose
+# Purpose
 
 Putting in 10,000 hours of practice into a skill is often a sign of true mastery. My coding skills are at a level that I never dreamed of but I still have a long way to go before I'm willing to call myself a master of anything. This repository will serve as an important reminder to myself and to my clients about just how much time I have spent honing my digital craft. The goal is to keep track of all the time I spend coding in a context that (for various reasons) can't be posted on my Github profile. Each commit will represent one hour's worth of coding, so that my total number of Github contributions (i.e. commits) will roughly equal the number of hours I've spent coding.
 
-#Notes
+# Notes
 
 This answer on [StackOverFlow](https://stackoverflow.com/a/3898842) was super helpful!
 
